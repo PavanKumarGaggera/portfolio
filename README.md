@@ -42,6 +42,7 @@ I specialize in **Machine Learning**, **NLP**, **Deep Learning**, and **Cloud Co
 - **Impact:** Achieved 90% accuracy, improving early detection rates.  
 
 ---
+[View All Projects](https://github.com/PavanKumarGaggera)
 
 ## 🎓 Education
 - **Master of Science in Data Science**, Lewis University  
