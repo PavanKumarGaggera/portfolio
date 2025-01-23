@@ -1,38 +1,76 @@
-# Pavan Kumar Gaggera Portfolio
+# 🚀 Pavan Kumar Gaggera - Portfolio
 
-Welcome to my portfolio! I am a **Machine Learning Engineer** with a strong foundation in designing and deploying scalable AI/ML solutions. This portfolio highlights my skills, projects, certifications, and professional journey.
+Welcome to my portfolio! I am a **Machine Learning Engineer** passionate about solving real-world problems through AI/ML solutions and data-driven insights. This repository showcases my professional journey, projects, skills, and achievements.
 
-## About Me
-I am passionate about leveraging data to derive actionable insights and drive business value. With expertise in **Machine Learning**, **Data Engineering**, and **Cloud Platforms**, I specialize in transforming raw data into meaningful intelligence.
+---
 
-## Core Skills
-- **Programming:** Python, SQL, Java, R
-- **Machine Learning Libraries:** TensorFlow, PyTorch, Scikit-learn
-- **Cloud Platforms:** AWS, Google Cloud
-- **Big Data Technologies:** Apache Spark, Hadoop
-- **Data Visualization:** Tableau, Matplotlib, Seaborn
-- **NLP:** BERT, GPT, Sentiment Analysis
-- **Version Control:** Git, GitHub
+## 🌟 About Me
+<img src="https://via.placeholder.com/800x200?text=Welcome+to+My+Portfolio" alt="Portfolio Banner" style="width:100%; border-radius:10px;">
 
-## Key Projects
-- **Pneumonia Detection:** Leveraged CNNs to classify pneumonia types using pediatric chest X-rays.
-- **Heart Disease Prediction:** Achieved 90% accuracy using Python and Scikit-learn.
-- **Fatigue Detection:** Developed a real-time system with 95% accuracy using OpenCV.
-- **Web Scraping Automation:** Reduced manual data collection time by 50%.
+Hi, I'm Pavan Kumar Gaggera!  
+I specialize in **Machine Learning**, **NLP**, **Deep Learning**, and **Cloud Computing**. With experience in developing predictive models and scalable AI solutions, I strive to turn complex data into actionable intelligence.
 
-[View All Projects](https://github.com/PavanKumarGaggera)
+---
 
-## Education
-- **Master of Science in Data Science**, Lewis University
-- **Bachelor of Technology in Computer Science and Engineering**, St. Peter’s Engineering College
+## 🛠️ Core Skills
+- **Programming Languages:** Python, SQL, Java, R  
+- **Libraries & Frameworks:** TensorFlow, PyTorch, Scikit-learn, Keras  
+- **Cloud Platforms:** AWS, Google Cloud (AI/ML)  
+- **Big Data Tools:** Apache Spark, Hadoop  
+- **Visualization Tools:** Matplotlib, Seaborn, Tableau  
 
-## Certifications
-- AWS Certified Cloud Practitioner
-- Google Data Analytics Professional Certificate
-- NVIDIA Gen AI Explained
-- Python Data Structures and Algorithms
+---
 
-## Let's Connect
-- **LinkedIn:** [Pavan Gaggera](https://www.linkedin.com/in/pavan-gaggera/)
-- **GitHub:** [PavanKumarGaggera](https://github.com/PavanKumarGaggera)
-- **LeetCode:** [Profile](https://leetcode.com/u/PavanKumarGaggera/)
+## 📂 Projects
+
+### 1️⃣ Pneumonia Detection in Chest X-rays
+![Pneumonia Detection](https://via.placeholder.com/800x400?text=Pneumonia+Detection+Project)
+- **Description:** Developed a CNN model to classify chest X-rays into normal, bacterial, or viral pneumonia categories.  
+- **Tech Stack:** Python, TensorFlow, Keras, VGG16/VGG19  
+- **Impact:** Improved diagnostic efficiency by 25%.  
+[View Code](https://github.com/PavanKumarGaggera/pneumonia-detection)
+
+---
+
+### 2️⃣ Fatigue Detection System
+![Fatigue Detection](https://via.placeholder.com/800x400?text=Fatigue+Detection+System)
+- **Description:** Real-time detection of driver fatigue using computer vision.  
+- **Tech Stack:** Python, OpenCV, Deep Learning  
+- **Impact:** Achieved 95% detection accuracy, enhancing road safety.  
+[View Code](https://github.com/PavanKumarGaggera/fatigue-detection)
+
+---
+
+### 3️⃣ Heart Disease Prediction
+![Heart Disease Prediction](https://via.placeholder.com/800x400?text=Heart+Disease+Prediction)
+- **Description:** Built a machine learning model to predict heart disease risk.  
+- **Tech Stack:** Python, Scikit-learn  
+- **Impact:** Achieved 90% accuracy, improving early detection rates.  
+[View Code](https://github.com/PavanKumarGaggera/heart-disease-prediction)
+
+---
+
+## 🎓 Education
+- **Master of Science in Data Science**, Lewis University  
+- **Bachelor of Technology in Computer Science**, St. Peter’s Engineering College  
+
+---
+
+## 🏆 Certifications
+- AWS Certified Cloud Practitioner  
+- Google Data Analytics Professional Certificate  
+- NVIDIA Gen AI Explained  
+- Python Data Structures and Algorithms  
+
+---
+
+## 🤝 Let's Connect
+Feel free to reach out or explore more about me!  
+- **LinkedIn:** [Pavan Gaggera](https://www.linkedin.com/in/pavan-gaggera/)  
+- **GitHub:** [PavanKumarGaggera](https://github.com/PavanKumarGaggera)  
+- **LeetCode:** [Profile](https://leetcode.com/u/PavanKumarGaggera/)  
+- **Email:** pavankumargaggera05@gmail.com  
+
+---
+
+> ⭐ If you like my work, don't forget to give a star to the repository!
