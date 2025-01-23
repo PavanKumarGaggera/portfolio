@@ -5,7 +5,6 @@ Welcome to my portfolio! I am a **Machine Learning Engineer** passionate about s
 ---
 
 ## 🌟 About Me
-<img src="https://via.placeholder.com/800x200?text=Welcome+to+My+Portfolio" alt="Portfolio Banner" style="width:100%; border-radius:10px;">
 
 Hi, I'm Pavan Kumar Gaggera!  
 I specialize in **Machine Learning**, **NLP**, **Deep Learning**, and **Cloud Computing**. With experience in developing predictive models and scalable AI solutions, I strive to turn complex data into actionable intelligence.
