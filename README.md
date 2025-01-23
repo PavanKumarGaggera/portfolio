@@ -23,29 +23,23 @@ I specialize in **Machine Learning**, **NLP**, **Deep Learning**, and **Cloud Co
 ## 📂 Projects
 
 ### 1️⃣ Pneumonia Detection in Chest X-rays
-![Pneumonia Detection](https://via.placeholder.com/800x400?text=Pneumonia+Detection+Project)
 - **Description:** Developed a CNN model to classify chest X-rays into normal, bacterial, or viral pneumonia categories.  
 - **Tech Stack:** Python, TensorFlow, Keras, VGG16/VGG19  
 - **Impact:** Improved diagnostic efficiency by 25%.  
-[View Code](https://github.com/PavanKumarGaggera/pneumonia-detection)
 
 ---
 
 ### 2️⃣ Fatigue Detection System
-![Fatigue Detection](https://via.placeholder.com/800x400?text=Fatigue+Detection+System)
 - **Description:** Real-time detection of driver fatigue using computer vision.  
 - **Tech Stack:** Python, OpenCV, Deep Learning  
 - **Impact:** Achieved 95% detection accuracy, enhancing road safety.  
-[View Code](https://github.com/PavanKumarGaggera/fatigue-detection)
 
 ---
 
 ### 3️⃣ Heart Disease Prediction
-![Heart Disease Prediction](https://via.placeholder.com/800x400?text=Heart+Disease+Prediction)
 - **Description:** Built a machine learning model to predict heart disease risk.  
 - **Tech Stack:** Python, Scikit-learn  
 - **Impact:** Achieved 90% accuracy, improving early detection rates.  
-[View Code](https://github.com/PavanKumarGaggera/heart-disease-prediction)
 
 ---
 
