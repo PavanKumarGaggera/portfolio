@@ -63,7 +63,7 @@ Feel free to reach out or explore more about me!
 - **LinkedIn:** [Pavan Gaggera](https://www.linkedin.com/in/pavan-gaggera/)  
 - **GitHub:** [PavanKumarGaggera](https://github.com/PavanKumarGaggera)  
 - **LeetCode:** [Profile](https://leetcode.com/u/PavanKumarGaggera/)  
-- **Email:** pavankumargaggera05@gmail.com  
+- **Email:** pavank.gaggera@gmail.com  
 
 ---
 
